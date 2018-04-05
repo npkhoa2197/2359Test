@@ -2,4 +2,4 @@
 
 ## DEMO
 
-![DEMO IMAGE]<img src="https://imgur.com/a/NtOX0.png">
+![DEMO IMAGE](https://imgur.com/a/NtOX0)
